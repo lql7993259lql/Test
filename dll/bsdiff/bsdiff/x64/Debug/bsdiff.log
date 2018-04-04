@@ -1,0 +1,16 @@
+﻿  randtable.c
+  huffman.c
+  decompress.c
+  crctable.c
+  compress.c
+c:\users\administrator\desktop\bsdiff\bsdiff\compress.c(205): warning C4244: '=': conversion from '__int64' to 'Int32', possible loss of data
+  bzlib.c
+c:\users\administrator\desktop\bsdiff\bsdiff\bzlib.c(996): warning C4267: '=': conversion from 'size_t' to 'Int32', possible loss of data
+c:\users\administrator\desktop\bsdiff\bsdiff\bzlib.c(1055): warning C4267: '=': conversion from 'size_t' to 'Int32', possible loss of data
+c:\users\administrator\desktop\bsdiff\bsdiff\bzlib.c(1190): warning C4267: '=': conversion from 'size_t' to 'Int32', possible loss of data
+  blocksort.c
+  Generating Code...
+  bsdiff.cpp
+     Creating library C:\Users\Administrator\Desktop\bsdiff\x64\Debug\bsdiff.lib and object C:\Users\Administrator\Desktop\bsdiff\x64\Debug\bsdiff.exp
+  bsdiff.vcxproj -> C:\Users\Administrator\Desktop\bsdiff\x64\Debug\bsdiff.dll
+  bsdiff.vcxproj -> C:\Users\Administrator\Desktop\bsdiff\x64\Debug\bsdiff.pdb (Full PDB)
